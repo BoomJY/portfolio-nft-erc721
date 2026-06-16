@@ -1,5 +1,7 @@
 # PortfolioNFT — ERC-721 NFT 合约(OpenZeppelin v5)
 
+> 🟢 **Live on Sepolia**:[`0xD100…bA58`](https://sepolia.etherscan.io/address/0xD100A76a459Daa4e6624374b13e6e2A0D6c6bA58) · Sourcify 已验证源码 · 公开 mint 价 0.01 ETH
+
 > **作品集编号**:作品 #1
 > **对应计划**:`solidity-15天` 计划 **Day 5**(ERC-721 / NFT)
 > **技术栈**:Solidity ^0.8.20 · Foundry · OpenZeppelin Contracts **v5.1.0**
