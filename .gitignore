@@ -1,0 +1,18 @@
+# Foundry 编译产物与缓存
+/out/
+/cache/
+/broadcast/
+
+# 依赖(lib/ 是直接 clone 的源码,不使用 git submodule)
+# 如果你希望把依赖也提交进仓库(推荐,便于他人一键 build),保留下面这行被注释。
+# 如果你改用 forge install + submodule,请改为忽略 /lib/ 并提交 .gitmodules。
+# /lib/
+
+# 环境变量(切勿提交私钥 / RPC KEY)
+.env
+.env.*
+
+# 编辑器
+.vscode/
+.idea/
+*.swp

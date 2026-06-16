@@ -1,0 +1,11 @@
+{
+  "name": "Portfolio NFT #0",
+  "description": "作品集示例 NFT 集合(PortfolioNFT)的第 0 号。本文件演示 ERC-721 元数据(OpenSea metadata standard)的标准结构。",
+  "image": "ipfs://bafyExampleImageCID/0.png",
+  "external_url": "https://example.com/nft/0",
+  "attributes": [
+    { "trait_type": "Background", "value": "Blue" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Level", "value": 1, "display_type": "number" }
+  ]
+}
